@@ -64,7 +64,7 @@ public class LoginOrderLogout {
 		a1.sendKeys(text);
 	}
 	public void clickonlink() {
-		a2.click();
+		a2.submit();
 	}
 	
     public void clickonlogin() {
